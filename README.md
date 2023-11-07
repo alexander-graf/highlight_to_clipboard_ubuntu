@@ -19,8 +19,11 @@ To add these dependencies to your Cargo.toml file, you can use the following cod
 dependencies
 ]
 rand = "0.8"
+
 shellexpand = "2.0"
 
+
+on ubuntu you also need kdialog. 
 
 Thats what happens:
 
